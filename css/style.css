@@ -1367,9 +1367,6 @@ header.header-for-mobile{
 .post-like:before{
 	content: "\f08a";
 }
-.post-author:before{
-	content: "By: ";
-}
 
 /* blog comment form */
 
@@ -10804,4 +10801,8 @@ a, img {
 	background-size: auto 100%;
 	background-attachment:scroll;
 	}
+}
+
+#section-speaking-header {
+	padding: 150px 0 150px 0;
 }
