@@ -1,0 +1,25 @@
+node_modules/
+*.DS_Store
+.npm
+logs
+*.log
+npm-debug.log*
+.env
+.idea/
+.vscode
+.gitpair/pairing.json
+
+# Teraform
+.terraform/
+*.out
+*.state
+*.tfstate
+
+build/
+packages/**/yarn.lock
+**/test/coverage/
+/features/.env.test
+**/coverage
+
+*.swp
+*.swo
