@@ -171,6 +171,9 @@ span.id-color-3{
 	color:var(--primary-color);
 }
 
+.footerLink {
+	color: var(--primary-color)
+}
 
 .bg-color-2,
 .timeline h5,
