@@ -10806,3 +10806,7 @@ a, img {
 #section-speaking {
 	padding: 150px 0 150px 0;
 }
+
+.flex-with-fixed-width {
+	flex: 0 0 100px;
+}
