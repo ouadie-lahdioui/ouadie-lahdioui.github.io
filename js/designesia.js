@@ -1554,5 +1554,7 @@
 		grid_gallery();
 		
          });
+
+         jQuery('#year').text(new Date().getFullYear());
      });
  })(jQuery);
