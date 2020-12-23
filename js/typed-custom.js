@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
 // jquery typed plugin
     $(".typed").typed({
         stringsElement: $('.typed-strings'),
-        typeSpeed: 200,
+        typeSpeed: 100,
         backDelay: 1500,
         loop: true,
         contentType: 'html', // or text

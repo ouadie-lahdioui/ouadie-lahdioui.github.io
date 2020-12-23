@@ -1495,7 +1495,8 @@
 			});
 
          });
-		 
+         
+         /*
 		 jQuery('.pf-click').click(function(){
 			
 			if(pf_open==1){
@@ -1532,7 +1533,8 @@
 				
 				});			
 		}); 
-		});   
+        });   
+        */
 		 
          $(function() {
              "use strict";
